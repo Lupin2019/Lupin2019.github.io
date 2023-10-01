@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Empty Attic</title>
-    <link>https://examplesite.com/</link>
+    <link>https://lupin2019.github.io/</link>
     <description>Recent content on Empty Attic</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 01 Oct 2023 06:39:59 +0200</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 06:39:59 +0200</lastBuildDate><atom:link href="https://lupin2019.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo</title>
-      <link>https://examplesite.com/posts/demo/</link>
+      <link>https://lupin2019.github.io/posts/demo/</link>
       <pubDate>Sun, 01 Oct 2023 06:39:59 +0200</pubDate>
       
-      <guid>https://examplesite.com/posts/demo/</guid>
+      <guid>https://lupin2019.github.io/posts/demo/</guid>
       <description>fsdf sdfsdf sdfsdf
 $$dasd$$</description>
     </item>
